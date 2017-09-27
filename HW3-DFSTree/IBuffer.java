@@ -1,5 +1,5 @@
 /**
-* Interfacee that encapsulates all the public methods of the Buffer or
+* Interface that encapsulates all the public methods of the Buffer or
 * any alternative class that is to be compatible.
 */
 public interface IBuffer {
